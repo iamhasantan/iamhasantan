@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamhasantan
-- 👀 I’m interested in Azure
-- 🌱 I’m currently learning <s>C#</s> C++
+- 👀 I’m interested in Cloud Technologies
+- 🌱 I’m currently learning C#
 
 <!---
 iamhasantan/iamhasantan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
